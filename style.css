@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(52, 4, 58);
+    font-size: 23px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: rgb(42, 6, 66);
+    box-shadow:5px 5px 5px grey;
+    float:none;
+    padding: 10px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+    font-size: 20px;
+    color: whitesmoke;
+  }
+  .result_para_tag span{
+    white-space:pre-line;
+  }
+  .copy_right_footer{
+    position:fixed;
+    background-color: rgb(60, 4, 65);
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+  }
+  .back{
+    background-image: url("bangpink.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Festive', cursive;
+  }
+ 
